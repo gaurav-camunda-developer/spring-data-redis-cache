@@ -1,2 +1,2 @@
 # spring-data-redis-cache
-Redis Cache Integration with Spring boot
+Spring Data Radis as Cache 
